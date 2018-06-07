@@ -1,0 +1,15 @@
+<!DOCTYPE html><html><head><title>test</title><script>
+    // Check that service workers are registered
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('./sw.js', {scope: './'}).then(function(registration) {
+          console.log(registration);
+        }).catch(function(error) {
+          console.log(error);
+        });
+
+      // Use the window load event to keep the page load performant
+      // window.addEventListener('load', () => {
+      //   navigator.serviceWorker.register('./sw.js');
+      // });
+    }
+    </script></head><body></body></html>

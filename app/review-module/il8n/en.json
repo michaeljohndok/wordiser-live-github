@@ -1,0 +1,11 @@
+{
+    "MENU": {
+        "REVIEW": {
+            "REVIEW": "Review",
+            "MANAGE": "Manage",
+            "HOMEWORD": "Homework",
+            "STUDY-NOTES": "Study Notes",
+            "WORK-SHEET": "Worksheets"
+        }
+    }
+}

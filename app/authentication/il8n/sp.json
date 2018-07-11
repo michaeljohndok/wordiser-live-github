@@ -5,7 +5,7 @@
             "STUDYNOTE": "Study Notes",
             "MANAGE": "Manage",
             "CLASS": "Class and students",
-            "MyProgress": "My Progress",
+            "My_Progress": "My Progress",
             "Contacts": "Contacts",
             "Members": "Members",
             "Cache_data": "Cache data",
@@ -17,12 +17,14 @@
             "Progress": "Progress",
             "Worksheets": "Worksheets",
             "Manager": "Manager",
+            "Course_manage": "Course manage",
+            "Tutorial_Data": "Tutorial Data",
             "REVIEW": "Revision word lists"
         }
     },
     "LOGIN":
     {
-        "TITLE": "Regístrate",
+        "TITLE": "Iniciar sesión",
         "EMAIL":
         {
             "LABEL": "Correo electrónico",
@@ -36,7 +38,7 @@
         },
         "REMEMBER": "Recuérdame",
         "FORGOT": "¿Se te olvidó tu contraseña?",
-        "BUTTON": "Regístrate",
+        "BUTTON": "Iniciar sesión",
         "SIGNUP_LINK": "No tienes una cuenta? Crear una ahora",
         "SOCIAL":
         {
@@ -49,11 +51,13 @@
         "dont_have_an": "No tienes una cuenta? ¡Únete gratis!",
         "Username_or_email": "Nombre de usuario o correo electrónico, por ej. Juan o juan@email.com",
         "JOIN": "REGISTRATE Y ÚNETE",
+        "SPANISH": "ESPAÑOL",
+        "English": "English",
         "Join_or_Login": "Únete o inicia sesión"
     },
     "SIGNUP":
     {
-        "TITLE": "Regístrate",
+        "TITLE": "Iniciar sesión",
         "Username": "Nombre de usuario por ej. Juan",
         "Username_has_been_taken": "¡Nombre de usuario ha sido tomado, por favor intente con otro nombre de usuario!",
         "Email_in_use": "¡Correo electrónico en uso! Inicia sesión o prueba con otro.",
@@ -67,9 +71,43 @@
         "ACCEPT": "ACEPTAR",
         "DONT_ACCEPT": "NO ACEPTAR",
         "Pick": "Pick",
-        "aaaaaaaaaa": "aaaaaaaaaa",
-        "aaaaaaaaaa": "aaaaaaaaaa",
-        "aaaaaaaaaa": "aaaaaaaaaa",
+        "Who_are_Wordiser": "1 ¿Quiénes son Wordiser?",
+        "www_wordiser_com_is_a_site": "Wordiser.com es un sitio operado por Wordiser Ltd. Wordiser Ltd es una compañía con responsabilidad limitada registrada en Inglaterra con Companies House como Company No. 10619999 y domicilio social en 19 Park Central, Bow Quarter, 60 Fairfield Road, London Bow E32US . Estamos regulados por English Company & Civil Law.",
+        "Privacy_Policy_Cookies": "2 Política de privacidad y cookies",
+        "Cookies_are_collected": "Las cookies se recopilan, almacenan, administran y utilizan en nuestro sitio web.",
+        "Personal_Data": "2.1 Datos personales y comunicación",
+        "Your_personal_data": "Sus datos personales se utilizarán para proporcionarle la información y los servicios ofrecidos a través de nuestro sitio web, para el cumplimiento del servicio y el aprendizaje mejorado del idioma inglés y cualquier subconjunto especializado de los mismos. Si se suscribe a nuestro boletín informativo por correo electrónico, podemos utilizar su dirección de correo electrónico para enviarle información sobre productos o servicios. Puede optar por no recibir el boletín informativo en cualquier momento. Nos pondremos en contacto contigo a través de un Grupo de Facebook o Facebook Messenger, en caso de que haya algún problema en particular.",
+        "Cookies_Monitoring": "2.2 Cookies y monitoreo",
+        "We_monitor_student": "Controlamos las impresiones de las páginas de los estudiantes individuales para proporcionar datos de control en comparación con los datos producidos por los anunciantes en estas mismas páginas. Utilizamos Google Analytics y otro software de seguimiento para proporcionar controles para el trabajo que hacemos y para respaldar el trabajo que realizan los Asociados Comerciales al llevar el tráfico del navegador al sitio.",
+        "Types_of_Cookies": "2.2.1 Tipos de cookies",
+        "A_cookie_is_a_small": "Una cookie es un pequeño archivo de texto que almacenamos en su dispositivo. Nuestro sitio web utiliza cookies para distinguirlo de otros usuarios de su sitio web. Las cookies también nos brindan información sobre cómo se usa este sitio web para que podamos mantenerlo actualizado, relevante y libre de errores.",
+        "Strictly_necessary_cookies": "Cookies estrictamente necesarias: cookies esenciales para el funcionamiento de nuestro sitio web.",
+        "Analytical_performance_cookie": "Cookie analítica / de rendimiento: estas cookies nos permiten reconocer y contar el número de visitantes a nuestro sitio web.",
+        "Functionality_cookies": "Cookies de funcionalidad: estas cookies se utilizan para reconocerlo cuando regrese a nuestro sitio web.",
+        "Targeting_Cookies": "Cookies de segmentación: estas cookies registran su visita a nuestro sitio web, las páginas que ha visitado y los enlaces que ha seguido.",
+        "We_may_monitor_traffic": "Podemos controlar el tráfico a nuestro sitio y recopilar la siguiente información opcional:",
+        "he_IP_address": "- La dirección IP de tu computadora",
+        "The_referring_website": "- El sitio web de referencia desde el que accedió a nuestro sitio web",
+        "The_reasons_for": "Las razones para esto son:",
+        "To_make_ongoing": "- Realizar mejoras continuas en nuestro sitio web en base a esta información",
+        "To_see_our": "- Para ver nuestras fuentes de negocios más populares",
+        "Disclosure_of_Personal": "2.3 Divulgación de personal",
+        "We_may_disclose": "Podemos divulgar sus datos personales: a otras empresas de nuestro grupo Si vendemos nuestro negocio a agentes y proveedores de servicios En los casos en que la ley nos exige que transmitamos información o si consideramos que es necesario tomar medidas para cometer fraude, delitos cibernéticos o para proteger el sitio web, los derechos, la seguridad personal de las personas. También podemos divulgar estadísticas agregadas sobre los visitantes de nuestro sitio web (clientes y ventas) para describir nuestros servicios a posibles socios (anunciantes, patrocinadores) a terceros de buena reputación y para otros fines legales. Estas estadísticas no incluirán información de identificación personal. Si le preocupan sus datos, tiene derecho, sujeto al pago de una pequeña tarifa, a solicitar el acceso a los datos personales que podamos mantener o procesar sobre usted. Los usuarios tienen la opción de revelar sus respuestas a los ejercicios a sus colegas en clase.",
+        "Loss_of_Personal": "2.4 Pérdida de datos personales",
+        "Wordiser_will_make_every_endeavour": "Wordiser hará todo lo posible para mantener sus datos personales seguros y protegidos contra amenazas cibernéticas básicas y de nivel medio. Wordiser no puede indemnizar a los usuarios por la pérdida de datos ante las amenazas cibernéticas más sofisticadas. Wordiser mantendrá una definición en evolución de amenazas cibernéticas, y el nivel de esas amenazas, ya que nuevas amenazas surgen de forma regular.",
+        "Restriction_of_Use": "3 Restricción de uso",
+        "can_be_used_as_a_stand": "Wordiser.com se puede utilizar como una aplicación independiente para estudiantes o en conjunto con maestros asignados a escuelas. Tanto los estudiantes como los profesores pueden consultar la funcionalidad de Wordiser al encontrar páginas y grupos de Wordiser ubicados en Facebook. Wordiser no es responsable de las relaciones o acuerdos alcanzados entre maestros y estudiantes. Wordiser no participará ni acordará resolver disputas de larga duración entre los estudiantes, entre los maestros o entre los maestros y los estudiantes. Wordiser se reserva el derecho de eliminar los nombres de usuario que puedan causar ofensa, o eliminar a los usuarios que se están comportando irrespetuosamente a través del sitio hacia otros usuarios de Wordiser. En casos de falta de respeto potencial por parte del usuario, Wordiser ofrecerá un proceso de negociación y comunicación explicando las acciones que podrían y se tomarán.",
+        "Notice_of_Changes": "3.1 Aviso de cambios a los términos",
+        "Days_Notice_will_be_given": "Se otorgará un aviso de 30 días a los usuarios con respecto a cualquier cambio futuro en los Términos de uso.",
+        "Right_to_Cancel": "4 Derecho a cancelar",
+        "Wordiser_do_not": "Wordiser no pide compromisos a largo plazo a los usuarios. El acceso a Wordiser seguirá siendo por correo electrónico y acceso a contraseña.",
+        "Notices_f": "5 avisos",
+        "All_notices_you": "Todas las notificaciones que nos envíe deben enviarse a través del formulario de contacto y / o los datos de contacto en el sitio  ",
+        "external_site": " y externo. Podemos notificarle a usted al correo electrónico o a la dirección postal que nos haya proporcionado al hacer una compra. Se considerará que el aviso se recibió y se atiende correctamente 24 horas después de enviar un correo electrónico o tres días después de la fecha de publicación de cualquier carta. Al proporcionar el servicio de cualquier notificación, será suficiente para demostrar, en el caso de una carta, que la carta fue correctamente dirigida, sellada y colocada en la publicación y, en el caso de un correo electrónico, que el correo electrónico fue enviado a la dirección de correo electrónico especificada de los destinatarios.",
+        "Wordiser_will_encourage": "Wordiser alentará a los usuarios a que se apoyen mutuamente a través de las páginas y grupos de Facebook. Wordiser mantendrá una presencia de escucha en Facebook en caso de problemas de larga duración con respecto al uso que no puedan resolverse en la comunidad. Wordiser hará todo lo posible para resolver problemas de larga duración o problemas que impidan su uso durante períodos de tiempo prolongados. Wordiser responderá a las notificaciones de los usuarios dentro de una semana laboral.",
+        "Conclusion_six": "6 Conclusión",
+        "These_terms_are": "Estos términos se rigen por la ley inglesa. Cualquier contrato para la compra de bienes desde este sitio y cualquier disputa o reclamo que surja de o en conexión con dicho contrato se regirá por la ley inglesa. Usted y nosotros acordamos que los tribunales de Inglaterra y Gales tendrán jurisdicción no exclusiva. Sin embargo, si usted es residente en Irlanda del Norte, también puede presentar una demanda en Irlanda del Norte, y si es residente en Escocia, también puede presentar una demanda en Escocia.",
+        "BY_CLICKING_ON": "AL HACER CLIC EN ACEPTAR, ACEPTA ACEPTAR LOS TÉRMINOS Y ACUERDOS ANTERIORES.",
         "NAME":
         {
             "LABEL": "Nombre",
@@ -92,7 +130,7 @@
         {
             "LABEL": "Confirmar contraseña"
         },
-        "BUTTON": "Regístrate",
+        "BUTTON": "REGÍSTRATE",
         "HAVE_LOGIN": "¿Ya tienes una cuenta? Entre aquí.",
         "MESSAGES":
         {

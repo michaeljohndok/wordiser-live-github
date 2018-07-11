@@ -1,22 +1,26 @@
 {
     "MENU": {
         "AUTH": {
-            "AUTH": "Authentication",
-            "SETTINGS": "Setings",
-            "LOGIN": "Login",
-            "SIGN_UP": "Sign Up",
-            "FORGOT": "Forgot Password",
-            "LOCK": "Lock Page",
             "PROFILE": "Settings",
+            "STUDYNOTE": "Study Notes",
             "MANAGE": "Manage",
             "CLASS": "Class and students",
+            "MyProgress": "My Progress",
+            "Contacts": "Contacts",
+            "Members": "Members",
+            "Cache_data": "Cache data",
+            "Category_data": "Category data",
+            "Irregular_data": "Irregular data",
+            "Tutorial_Data": "Tutorial Data",
+            "Course_Data": "Course Data",
+            "Study_Notes": "Study Notes",
+            "Progress": "Progress",
+            "Worksheets": "Worksheets",
+            "Manager": "Manager",
+            "Course_manage": "Course manage",
             "REVIEW": "Revision word lists"
 
-            
         }
-    },
-    "HEADER": {
-        "HEADING": "Triangular"
     },
     "LOGIN": {
         "TITLE": "Login",
@@ -38,10 +42,30 @@
         },
         "MESSAGES": {
             "ACCESS_DENIED": "Username / Password Incorrect"
-        }
+        },
+        "dont_have_an":"Don't have an account? Join for free!",
+        "Username_or_email":"Username or email e.g. Rob or Rob@email.com",
+        "JOIN": "join english",
+        "Join_or_Login":"Join or Login"
     },
     "SIGNUP": {
         "TITLE": "Sign up",
+        "Username": "Username e.g. Rob",
+        "Username_has_been_taken": "Username has been taken, please try another username!",
+        "Email_in_use": "Email in use! Login or try another one.",
+        "Teacher": "Teacher",
+        "Student": "Student",
+        "Please_select_a_role": "Please select a role!",
+        "My_first_language": " My first language is...",
+        "School_you_work_at": "School you work at",
+        "privacy": "privacy",
+        "View_agreement": "View_agreement",
+        "ACCEPT": "ACCEPT",
+        "DONT_ACCEPT": "DON'T ACCEPT",
+        "Pick": "Pick",
+        "aaaaaaaaaa": "aaaaaaaaaa",
+        "aaaaaaaaaa": "aaaaaaaaaa",
+        "aaaaaaaaaa": "aaaaaaaaaa",
         "NAME": {
             "LABEL": "Name",
             "PLEASE_ENTER": "Please enter your login username!"
@@ -69,19 +93,6 @@
             "NO_SIGNUP": "Could not sign user up"
         }
     },
-    "LOCK": {
-        "TITLE": "Welcome back",
-        "LOGGED_OUT": "You have been logged out due to idleness. Enter your password to log back in.",
-        "PASSWORD": {
-            "LABEL": "password",
-            "PLEASE_ENTER": "Please enter your password."
-        },
-        "LOGIN": "Login",
-        "LOGOUT": "Log out",
-        "MESSAGES": {
-            "ACCESS_DENIED": "Username / Password Incorrect"
-        }
-    },
     "FORGOT": {
         "TITLE": "Forgot your password?",
         "ENTER_EMAIL": "Please enter your email below",
@@ -99,6 +110,35 @@
         }
     },
     "PROFILE": {
+        "Pick": "Pick",
+        "Logout": "Logout",
+        "Points": "Points",
+        "Total_reviews": "Total reviews",
+        "Pick": "Pick",
+        "Logout": "Logout",
+        "Email": "Email",
+        "Name": "Name",
+        "Location": "Location",
+        "School": "School",
+        "Website_or_blog": "Website or blog",
+        "Twitter": "Twitter",
+        "Personal_description": "Personal description",
+        "Reset_TUTORIAL": "Reset TUTORIAL",
+        "Update": "Update",
+        "Membership_type": "Membership type",
+        "Language": "Language",
+        "Native": "Native",
+        "English_options": "English options",
+        "UK_spelling_pronunciation": "UK spelling / pronunciation",
+        "US_spelling_pronunciation": "US spelling / pronunciation",
+        "Level": "Level",
+        "English_level": "English level",
+        "Rest_password": "Rest password",
+        "If_you_want_to_change_your_password": "If you want to change your password click on the button below. You will be sent an email.",
+        "Enable_add_home_screen": "Enable add home screen",
+        "Receive_email_notifications": "Receive email notifications",
+        "Update": "Update",
+        "RESET": "RESET",
         "TITLE": "Profile",
         "NAME": {
             "LABEL": "name",

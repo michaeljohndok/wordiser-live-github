@@ -1,0 +1,197 @@
+{
+    "MENU": {
+        "AUTH": {
+            "PROFILE": "Settings",
+            "STUDYNOTE": "Study Notes",
+            "MANAGE": "Manage",
+            "CLASS": "Class and students",
+            "MyProgress": "My Progress",
+            "Contacts": "Contacts",
+            "Members": "Members",
+            "Cache_data": "Cache data",
+            "Category_data": "Category data",
+            "Irregular_data": "Irregular data",
+            "Tutorial_Data": "Tutorial_Data",
+            "Course_Data": "Course Data",
+            "Study_Notes": "Study Notes",
+            "Progress": "Progress",
+            "Worksheets": "Worksheets",
+            "Manager": "Manager",
+            "REVIEW": "Revision word lists"
+        }
+    },
+    "LOGIN":
+    {
+        "TITLE": "Regístrate",
+        "EMAIL":
+        {
+            "LABEL": "Correo electrónico",
+            "PLEASE_ENTER": "Por favor introduzca su correo electrónico.",
+            "PLEASE_VALID": "Por favor, introduce una dirección de correo electrónico válida."
+        },
+        "PASSWORD":
+        {
+            "LABEL": "Contraseña",
+            "PLEASE_ENTER": "Por favor ingrese su contraseña."
+        },
+        "REMEMBER": "Recuérdame",
+        "FORGOT": "¿Se te olvidó tu contraseña?",
+        "BUTTON": "Regístrate",
+        "SIGNUP_LINK": "No tienes una cuenta? Crear una ahora",
+        "SOCIAL":
+        {
+            "OR": "o inicie sesión con"
+        },
+        "MESSAGES":
+        {
+            "ACCESS_DENIED": "¡Nombre de usuario / contraseña incorrecta!"
+        },
+        "dont_have_an": "No tienes una cuenta? ¡Únete gratis!",
+        "Username_or_email": "Nombre de usuario o correo electrónico, por ej. Juan o juan@email.com",
+        "JOIN": "REGISTRATE Y ÚNETE",
+        "Join_or_Login": "Únete o inicia sesión"
+    },
+    "SIGNUP":
+    {
+        "TITLE": "Regístrate",
+        "Username": "Nombre de usuario por ej. Juan",
+        "Username_has_been_taken": "¡Nombre de usuario ha sido tomado, por favor intente con otro nombre de usuario!",
+        "Email_in_use": "¡Correo electrónico en uso! Inicia sesión o prueba con otro.",
+        "Teacher": "Profesor",
+        "Student": "Estudiante",
+        "Please_select_a_role": "¡Por favor seleccione su rol como estudiante o maestro! Solo los estudiantes pueden hacer cursos.",
+        "My_first_language": " Mi primer idioma es...",
+        "School_you_work_at": "La escuela donde trabajas",
+        "privacy": "Acuerdo",
+        "View_agreement": "View_agreement",
+        "ACCEPT": "ACEPTAR",
+        "DONT_ACCEPT": "NO ACEPTAR",
+        "Pick": "Pick",
+        "aaaaaaaaaa": "aaaaaaaaaa",
+        "aaaaaaaaaa": "aaaaaaaaaa",
+        "aaaaaaaaaa": "aaaaaaaaaa",
+        "NAME":
+        {
+            "LABEL": "Nombre",
+            "PLEASE_ENTER": "¡Por favor ingrese su nombre de usuario para iniciar sesión!"
+        },
+        "EMAIL":
+        {
+            "LABEL": "Correo electrónico",
+            "PLEASE_ENTER": "¡Por favor introduzca su correo electrónico!",
+            "PLEASE_VALID": "¡Por favor, introduce una dirección de correo electrónico válida!"
+        },
+        "PASSWORD":
+        {
+            "LABEL": "Contraseña",
+            "PLEASE_ENTER": "¡Por favor ingrese su contraseña!",
+            "MIN_LENGTH": "¡Su contraseña debe tener más de 8 caracteres de largo!",
+            "SAME_PASSWORD": "¡Debes ingresar la misma contraseña!"
+        },
+        "PASSWORD_CONFIRM":
+        {
+            "LABEL": "Confirmar contraseña"
+        },
+        "BUTTON": "Regístrate",
+        "HAVE_LOGIN": "¿Ya tienes una cuenta? Entre aquí.",
+        "MESSAGES":
+        {
+            "CONFIRM_SENT": "Confirmación enviada a",
+            "LOGIN_NOW": "Iniciar sesión",
+            "CONFIRM_SENT": "Confirmación enviada a",
+            "NO_SIGNUP": "¡No se pudo registrar al usuario!"
+        }
+    },
+    "FORGOT":
+    {
+        "TITLE": "¿Olvidaste tu contraseña?",
+        "ENTER_EMAIL": "Por favor ingrese su correo electrónico a continuación",
+        "EMAIL":
+        {
+            "LABEL": "correo electrónico",
+            "PLEASE_ENTER": "Por favor, introduzca su dirección de correo electrónico.",
+            "PLEASE_VALID": "Por favor, introduce una dirección de correo electrónico válida."
+        },
+        "RESET": "Reiniciar",
+        "LOGIN": "¿Lo has recordado? Inicia sesión aquí",
+        "MESSAGES":
+        {
+            "RESET_SENT": "Su nueva contraseña ha sido enviada",
+            "LOGIN_NOW": "Iniciar sesión",
+            "NO_RESET": "¡No se pudo restablecer la contraseña de los usuarios!"
+        }
+    },
+    "PROFILE":
+    {
+        "Pick": "Seleccionar",
+        "Logout": "Cerrar sesión",
+        "Points": "Puntos",
+        "Total_reviews": "Total de ejercicios realizados",
+        "Pick": "Seleccionar",
+        "Logout": "Cerrar sesión",
+        "Email": "Correo electrónico",
+        "Name": "Nombre",
+        "Location": "Ubicación",
+        "School": "Escuela",
+        "Website_or_blog": "Sitio web o blog",
+        "Twitter": "Twitter",
+        "Personal_description": "Descripción personal",
+        "Reset_TUTORIAL": "Restablecer TUTORIAL",
+        "Update": "Actualizar",
+        "Membership_type": "Tipo de afiliación",
+        "Language": "Idioma",
+        "Native": "Nativo",
+        "English_options": "Opciones en inglés",
+        "UK_spelling_pronunciation": "Ortografía / pronunciación del Reino Unido",
+        "US_spelling_pronunciation": "Ortografía / pronunciación en los Estados Unidos",
+        "Level": "Nivel",
+        "English_level": "Nivel de inglés",
+        "Rest_password": "Restablecer la contraseña",
+        "If_you_want_to_change_your_password": "Si desea cambiar su contraseña, haga clic en el botón de abajo. Se le enviará un correo electrónico.",
+        "Enable_add_home_screen": "Habilitar agregar pantalla de inicio",
+        "Receive_email_notifications": "Reciba notificaciones por correo electrónico",
+        "Update": "Actualizar",
+        "RESET": "REINICIAR",
+        "TITLE": "Perfil",
+        "NAME":
+        {
+            "LABEL": "Nombre",
+            "PLEASE_ENTER": "Por favor, escriba su nombre"
+        },
+        "EMAIL":
+        {
+            "LABEL": "Correo electrónico",
+            "PLEASE_ENTER": "Por favor, introduzca su dirección de correo electrónico",
+            "PLEASE_VALID": "Por favor, introduce una dirección de correo electrónico válida"
+        },
+        "LOCATION":
+        {
+            "LABEL": "Ubicación"
+        },
+        "WEBSITE":
+        {
+            "LABEL": "Sitio web"
+        },
+        "BIO":
+        {
+            "LABEL": "Tu descripción"
+        },
+        "TWITTER":
+        {
+            "LABEL": "Twitter"
+        },
+        "PASSWORD":
+        {
+            "LABEL": "Nueva contraseña",
+            "CURRENT": "Actual",
+            "PLEASE_ENTER": "Por favor ingrese una contraseña",
+            "MIN_LENGTH": "¡Su contraseña debe tener más de 8 caracteres de largo!",
+            "SAME_PASSWORD": "¡Debes ingresar la misma contraseña!"
+        },
+        "PASSWORD_CONFIRM":
+        {
+            "LABEL": "Confirmar contraseña"
+        },
+        "BUTTON": "Guardar y actualizar"
+    }
+}

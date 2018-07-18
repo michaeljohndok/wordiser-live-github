@@ -1,0 +1,40 @@
+{	
+
+    "COURRSEWPAGE": {
+    	"VIEW_DETAILS":"VER DETALLES",
+    	"Add_content":"Add content",
+    	"edit":"edit",
+    	"Study":"ESTUDIAR",
+    	"Leave":"DEJAR CURSO",
+    	"View":"View",
+    	"Add_content":"Add_content",
+        "You_need_to_leave":"Para realizar este curso, primero debe abandonar el curso de vocabulario ",
+        "then_you_can":" ¡Solo puedes hacer un curso de vocabulario a la vez!",
+        "Add_course":"ÚNASE AL CURSO",
+    	"aaaaaaaaaa":"aaaaaaaaaa"
+
+    },
+    "STUDYNOTEPAGE": {
+        "Add_study_note":"AGREGA NOTA DE ESTUDIO",
+        "Add_shared_folder":"Add shared folder",
+        "Manage_roles":"Manage roles",
+        "Add_title_for_course":"Add title for course",
+        "Add_description_for_course":"Add description for course",
+        "Free":"Free",
+        "Paid":"Paid",
+        "Add_fee_and_payment details":"Add fee and payment details",
+        "Your_course_can_not":"Your course can not be published yet. You need to contact Wordiser before it can go live. Simply go to the HELP page and click the top button CONTACT US when you are ready.",
+        "Save":"Save",
+        "Close":"Close",
+        "Add_title_for_category":"Add title for category",
+        "MY_NOTES":"MY NOTES",
+        "Edit":"EDITAR",
+        "Delete":"BORRAR",
+        "Hide":"Hide",
+        "Locked":"Locked",
+        "copy":"COPIAR",
+        "Hide":"Hide",
+        "aaaaaaaaaa":"aaaaaaaaaa"
+
+    }
+}

@@ -1,5 +1,21 @@
 {
+    "HOME": {
+        "STUDY":"STUDY",
+        "COURSES":"COURSES",
+        "REFERENCE":"REFERENCE",
+        "STUDY_NOTES":"STUDY NOTES",
+        "MY_PROGRESS":"MY PROGRESS",
+        "PROGRESS":"PROGRESS",
+        "WORKSHEETS":"WORKSHEETS",
+        "MANAGER":"MANAGER",
+        "aaaa":"aaaa"
+    },
     "MENU": {
+        "Home":"Home",
+        "REFERENCE":"REFERENCE",
+        "COURSES":"COURSES",
+        "HELP":"HELP",
+        "NOTICES":"NOTICES",
         "AUTH": {
             "PROFILE": "Settings",
             "STUDYNOTE": "Study Notes",
@@ -149,6 +165,8 @@
         }
     },
     "PROFILE": {
+        "Settings":"Settings",
+        "Profile":"Profile",
         "Pick": "Pick",
         "Logout": "Logout",
         "Points": "Points",

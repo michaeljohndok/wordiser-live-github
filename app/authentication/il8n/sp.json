@@ -1,11 +1,27 @@
 {
+    "HOME": {
+        "STUDY":"¡ESTUDIA AHORA!",
+        "COURSES":"CURSOS",
+        "REFERENCE":"REFERENCIA",
+        "STUDY_NOTES":"NOTAS DE ESTUDIO",
+        "MY_PROGRESS":"MI PROGRESO",
+        "PROGRESS":"PROGRESS",
+        "WORKSHEETS":"WORKSHEETS",
+        "MANAGER":"MANAGER",
+        "aaaa":"aaaa"
+    },
     "MENU": {
+        "Home":"INICIO",
+        "REFERENCE":"REFERENCIA",
+        "COURSES":"CURSOS",
+        "HELP":"AYUDA",
+        "NOTICES":"NOTIFICACIONES",
         "AUTH": {
-            "PROFILE": "Settings",
-            "STUDYNOTE": "Study Notes",
+            "PROFILE": "AJUSTES",
+            "STUDYNOTE": "NOTAS DE ESTUDIO",
             "MANAGE": "Manage",
             "CLASS": "Class and students",
-            "My_Progress": "My Progress",
+            "My_Progress": "MI PROGRESO",
             "Contacts": "Contacts",
             "Members": "Members",
             "Cache_data": "Cache data",
@@ -161,6 +177,8 @@
     },
     "PROFILE":
     {
+        "Settings":"AJUSTES",
+        "Profile":"PERFIL",
         "Pick": "Seleccionar",
         "Logout": "Cerrar sesión",
         "Points": "Puntos",

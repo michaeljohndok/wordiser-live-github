@@ -8,6 +8,10 @@
         }
     },
     "EMAIL": {
+        "Select_all":"Select all",
+        "Mark_as_read":"Mark as read",
+        "Remove_selected":"Remove selected",
+        "REPLY":"REPLY",
         "TOOLBAR": {
             "SEARCH": "Search"
         },

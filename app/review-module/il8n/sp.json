@@ -1,0 +1,70 @@
+{
+
+    "HELP": {
+        "Do_you_really_want_to_delete_this":"¿De verdad quieres borrar esto?",
+        "YES_DELETE_IT":"¡SÍ, BORRELO!",
+        "No":"NO",
+        "aaaaaaaaaa":"aaaaaaaaaa",
+        "aaaaaaaaaa":"aaaaaaaaaa",
+        "aaaaaaaaaa":"aaaaaaaaaa",
+        "aaaaaaaaaa":"aaaaaaaaaa"
+    },
+    "MENU": {
+        "REVIEW": {
+            "REVIEW": "Review",
+            "MANAGE": "Manage",
+            "HOMEWORD": "Homework",
+            "STUDY-NOTES": "Study Notes",
+            "WORK-SHEET": "Worksheets"
+        }
+    },
+    "REVIEWPAGE": {
+        "Revision_by_month":"Revisión por mes",
+        "Revision_total_done":"Revisión (total hecho)",
+        "Progress_total_correct":"Progreso (total correcto)",
+        "Problems_total_incorrect":"Problemas (total incorrecto)",
+        "Total_reviews":"Total de ejercicios realizados",
+        "Total_revised_correctly":"Total revisado correctamente",
+        "Total_revised_incorrectly":"Total revisado incorrectamente",
+        "Total_points":"Puntos",
+        "My_exercises":"MIS EJERCICIOS",
+        "Pronunciation":"Pronunciation",
+        "Spelling_and_form":"Ortografía y forma",
+        "Active_use":"Uso activo",
+        "Further_practice":"Practica más",
+        "LAST_TESTED":"LAST TESTED",
+        "PROGRESS":"PROGRESS",
+        "ACTIONS":"ACTIONS",
+        "Disable":"INHABILITAR",
+        "Enable":"HABILITAR",
+        "DELETE":"BORRAR",
+        "Revised":"Revised :",
+        "Correctly":"Correctly :",
+        "Incorrectly":"Incorrectly :",
+        "remove":"remove",
+        "Understanding":"Comprensión",
+        "Form":"Forma",
+        "Further_practice":"Practica más",
+        "Active_use":"Uso activo",
+        "LAST TESTED":"LAST_TESTED",
+        "PROGRESS":"PROGRESS",
+        "ACTIONS":"ACTIONS",
+        "Revised":"Revised : ",
+        "Correctly":"Correctly : ",
+        "Incorrectly":"Incorrectly : ",
+        "Progress":"Progress",
+        "Progress_test":"Progress test",
+        "Understanding":"Comprensión",
+        "VOCABULARY":"VOCABULARIO",
+        "GRAMMAR":"GRAMÁTICA",
+        "COURSE_S":"CURSO/S",
+        "skip":"OMITIR",
+        "Done":"HECHO",
+        "Hint":"VER UNA PARTE",
+        "aaaaaaaaaa":"aaaaaaaaaa",
+        "aaaaaaaaaa":"aaaaaaaaaa",
+        "aaaaaaaaaa":"aaaaaaaaaa",
+        "aaaaaaaaaa":"aaaaaaaaaa"
+
+    }
+}

@@ -1,4 +1,14 @@
-{
+{	
+
+    "HELP": {
+        "Do_you_really_want_to_delete_this":"Do you really want to delete this?",
+        "YES_DELETE_IT":"YES, DELETE IT!",
+        "No":"No",
+        "aaaaaaaaaa":"aaaaaaaaaa",
+        "aaaaaaaaaa":"aaaaaaaaaa",
+        "aaaaaaaaaa":"aaaaaaaaaa",
+        "aaaaaaaaaa":"aaaaaaaaaa"
+    },
     "MENU": {
         "REVIEW": {
             "REVIEW": "Review",
@@ -7,5 +17,59 @@
             "STUDY-NOTES": "Study Notes",
             "WORK-SHEET": "Worksheets"
         }
+    },
+    "REVIEWPAGE": {
+    	"Revision_by_month":"Revision by month",
+    	"Revision_total_done":"Revision (total done)",
+    	"Progress_total_correct":"Progress (total correct)",
+    	"Problems_total_incorrect":"Problems (total incorrect)",
+    	"Total_reviews":"Total reviews",
+    	"Total_revised_correctly":"Total revised correctly",
+    	"Total_revised_incorrectly":"Total revised incorrectly",
+    	"Total_points":"Total points",
+    	"My_exercises":"My exercises",
+    	"Pronunciation":"Pronunciation",
+    	"Spelling_and_form":"Spelling and form",
+    	"Active_use":"Active use",
+    	"Further_practice":"Further practice",
+    	"LAST_TESTED":"LAST TESTED",
+    	"PROGRESS":"PROGRESS",
+    	"ACTIONS":"ACTIONS",
+    	"Disable":"Disable",
+    	"Enable":"Enable",
+    	"DELETE":"DELETE",
+    	"Revised":"Revised :",
+    	"Correctly":"Correctly :",
+    	"Incorrectly":"Incorrectly :",
+    	"Disable":"Disable",
+    	"Enable":"Enable",
+    	"remove":"remove",
+    	"Understanding":"Understanding",
+    	"Form":"Form",
+    	"Further_practice":"Further practice",
+    	"Active_use":"Active use",
+    	"LAST TESTED":"LAST TESTED",
+    	"PROGRESS":"PROGRESS",
+    	"ACTIONS":"ACTIONS",
+    	"Disable":"Disable",
+    	"Enable":"Enable",
+    	"DELETE":"DELETE",
+    	"Revised":"Revised : ",
+    	"Correctly":"Correctly : ",
+    	"Incorrectly":"Incorrectly : ",
+    	"Disable":"Disable",
+    	"Enable":"Enable",
+    	"DELETE":"DELETE",
+    	"Progress":"Progress",
+    	"Progress_test":"Progress test",
+    	"Understanding":"Understanding",
+    	"VOCABULARY":"VOCABULARY",
+    	"GRAMMAR":"GRAMMAR",
+    	"COURSE_S":"COURSE/S",
+    	"skip":"skip",
+    	"Done":"Done",
+    	"Hint":"Hint",
+    	"aaaaaaaaaa":"aaaaaaaaaa"
+
     }
 }

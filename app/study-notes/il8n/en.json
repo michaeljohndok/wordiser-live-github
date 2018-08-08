@@ -11,6 +11,7 @@
     	"You_need_to_leave":"You need to leave the vocabulary course",
     	"then_you_can":"then you can join this vocabulary course!",
     	"Add_course":"JOIN COURSE",
+        "show_all_courses":"show all courses",
     	"aaaaaaaaaa":"aaaaaaaaaa"
 
     },
@@ -35,6 +36,7 @@
         "Edit":"Edit",
         "copy":"copy",
         "Hide":"Hide",
+        "Fixed_order":"Fixed_order",
         "aaaaaaaaaa":"aaaaaaaaaa"
 
     }

@@ -64,6 +64,9 @@
         "JOIN": "REGISTER AND JOIN",
         "SPANISH": "ESPAÑOL",
         "English": "English",
+        "View": "View",
+        "Close": "Close",
+        "we_use_cookies":"We use cookies on our web application. You are free to manage this via your browser setting at any time. To learn more about how we use the cookies, please see our cookies policy.",
         "Join_or_Login":"Join or Login"
 
 

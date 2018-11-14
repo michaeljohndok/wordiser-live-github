@@ -16,7 +16,8 @@
 
     },
     "STUDYNOTEPAGE": {
-        "Leave":"DEJAR CURSO",
+        "Leave_class":"LEAVE CLASS",
+        "Leave_course":"DEJAR CURSO",
         "Add_study_note":"AGREGA NOTA DE ESTUDIO",
         "Add_shared_folder":"Add shared folder",
         "Manage_roles":"Manage roles",

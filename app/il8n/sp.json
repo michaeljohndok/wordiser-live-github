@@ -10,10 +10,12 @@
         "REMOVE":"RETIRAR",
         "Save_new_list":"GUARDAR NUEVA LISTA",
         "Select":"SELECCIONAR",
-        "SEARCH":"BUSCAR",
+        "SEARCH":"BÚSCAR",
         "NOTICES":"NOTICES",
         "STUDY LIST":"LISTA DE ESTUDIOS",
         "STUDY":"ESTUDIAR",
+        "Contact":"CONTACTO",
+        "Search_Help_Contact":"BÚSCAR, AYUDA, CONTACTO ...",
         "TOOLBAR": {
             "SETTINGS": "Settings",
             "PROFILE": "Profile",

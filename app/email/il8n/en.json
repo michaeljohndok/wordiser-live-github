@@ -29,6 +29,9 @@
             "BCC": "BCC",
             "SUBJECT": "Subject",
             "SEND": "Send",
+            "Subject": "Subject",
+            "To": "To",
+            "Please_enter_a_subject": "Please enter a subject for the message!",
             "VALIDATION": {
                 "EMAIL_REQUIRED": "Please enter an address to send to.",
                 "EMAIL_VALID": "Please enter a valid email address.",

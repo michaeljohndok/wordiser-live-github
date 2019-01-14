@@ -28,7 +28,10 @@
             "CC": "CC",
             "BCC": "BCC",
             "SUBJECT": "Subject",
-            "SEND": "Send",
+            "SEND": "Enviar",
+            "Subject": "Tema",
+            "To": "A",
+            "Please_enter_a_subject": "¡Por favor, introduzca un asunto para el mensaje!",
             "VALIDATION": {
                 "EMAIL_REQUIRED": "Please enter an address to send to.",
                 "EMAIL_VALID": "Please enter a valid email address.",

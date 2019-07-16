@@ -1,13 +1,16 @@
 {
     "HOME": {
-        "STUDY":"STUDY",
-        "COURSES":"COURSES",
+        "STUDY":"REVISE NOW",
+        "ADMIN":"ADMIN",
+        "COURSES":"COURSE DIRECTORY",
         "REFERENCE":"REFERENCE",
         "STUDY_NOTES":"STUDY NOTES",
         "MY_PROGRESS":"MY PROGRESS",
         "PROGRESS":"PROGRESS",
         "WORKSHEETS":"WORKSHEETS",
-        "MANAGER":"MANAGER",
+        "MANAGER":"CLASS & COURSE MANAGER",
+        "MY_LEARNING":"MY LEARNING",
+        "CONTENT_CREATOR":"CONTENT CREATOR",
         "aaaa":"aaaa"
     },
     "MENU": {
@@ -33,7 +36,7 @@
             "Progress": "Progress",
             "Worksheets": "Worksheets",
             "Manager": "Manager",
-            "Course_manage": "Course manage",
+            "Course_manage": "Course manager",
             "REVIEW": "Revision word lists"
 
         }
@@ -42,12 +45,12 @@
         "TITLE": "Login",
         "EMAIL": {
             "LABEL": "Email",
-            "PLEASE_ENTER": "Please enter your email address.",
-            "PLEASE_VALID": "Please enter a valid email address."
+            "PLEASE_ENTER": "Please enter your email address!",
+            "PLEASE_VALID": "Please enter a valid email address!"
         },
         "PASSWORD": {
             "LABEL": "Password",
-            "PLEASE_ENTER": "Please enter your password."
+            "PLEASE_ENTER": "Please enter your password!"
         },
         "REMEMBER": "Remember Me",
         "FORGOT": "Forgot password?",
@@ -156,8 +159,8 @@
         "ENTER_EMAIL": "Please enter your email below",
         "EMAIL": {
             "LABEL": "email",
-            "PLEASE_ENTER": "Please enter your email address.",
-            "PLEASE_VALID": "Please enter a valid email address."
+            "PLEASE_ENTER": "Please enter your email address!",
+            "PLEASE_VALID": "Please enter a valid email address!"
         },
         "RESET": "Reset",
         "LOGIN": "Remembered it? Login in here",
@@ -225,6 +228,8 @@
         "Receive_email_notifications": "Receive email notifications",
         "Update": "Update",
         "RESET": "RESET",
+        "Company_id": "Company id",
+        "Join_compnay": "Join channel",
         "TITLE": "Profile",
         "NAME": {
             "LABEL": "name",
@@ -232,8 +237,8 @@
         },
         "EMAIL": {
             "LABEL": "email",
-            "PLEASE_ENTER": "Please enter your email address",
-            "PLEASE_VALID": "Please enter a valid email address"
+            "PLEASE_ENTER": "Please enter your email address!",
+            "PLEASE_VALID": "Please enter a valid email address!"
         },
         "LOCATION": {
             "LABEL": "location"

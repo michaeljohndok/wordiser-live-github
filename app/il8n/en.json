@@ -1,7 +1,11 @@
 {
     "ADMIN": {
+        "NOTICES":"NOTICES",
         "HELP":"HELP",
         "go_to_home_page":"go to home page",
+        "LEAVE_TEST_SELECT_LEVEL":"LEAVE TEST & SELECT LEVEL",
+        "return_to_level_test":"return to level test",
+        "save":"save",
         "Next_unit":"Next unit,",
         "to_unlock":"to unlock!",
         "Next_unit_unlocked":"Next unit unlocked!",
@@ -14,7 +18,7 @@
         "NOTICES":"NOTICES",
         "STUDY_LIST":"STUDY LIST",
         "STUDY":"STUDY",
-        "Contact":"CONTACT",
+        "Contact":"CONTACT US",
         "Search_Help_Contact":"SEARCH, HELP, CONTACT...",
         "Add_more_with":"Add more with + STUDY button",
         "Save":"Save",

@@ -1,7 +1,11 @@
 {
     "ADMIN": {
+        "NOTICES":"NOTICES",
         "HELP":"AYUDA",
         "go_to_home_page":"HAGA CLIC AQUÍ CUANDO LISTO",
+        "LEAVE_TEST_SELECT_LEVEL":"DEJAR PRUEBA Y SELECCIONAR NIVEL",
+        "return_to_level_test":"VOLVER A LA PRUEBA DE NIVEL",
+        "save":"GUARDAR",
         "Next_unit":"Siguiente unidad,",
         "to_unlock":"para desbloquear!",
         "Next_unit_unlocked":"¡La siguiente unidad está desbloqueada!",

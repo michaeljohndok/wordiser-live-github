@@ -1,2 +1,0 @@
-# wordiser-live
-wordiser-live

@@ -47,13 +47,13 @@
         "EMAIL":
         {
             "LABEL": "Correo electrónico",
-            "PLEASE_ENTER": "Por favor introduzca su correo electrónico.",
+            "PLEASE_ENTER": "Por favor introduzca su correo electrónico!",
             "PLEASE_VALID": "Por favor, introduce una dirección de correo electrónico válida."
         },
         "PASSWORD":
         {
             "LABEL": "Contraseña",
-            "PLEASE_ENTER": "Por favor ingrese su contraseña."
+            "PLEASE_ENTER": "Por favor ingrese su contraseña!"
         },
         "REMEMBER": "Recuérdame",
         "FORGOT": "¿Se te olvidó tu contraseña?",
@@ -68,7 +68,7 @@
             "ACCESS_DENIED": "¡Nombre de usuario / contraseña incorrecta!"
         },
         "dont_have_an": "No tienes una cuenta? ¡Únete gratis!",
-        "Username_or_email": "Nombre de usuario o correo electrónico, por ej. Juan juan@email.com",
+        "Username_or_email": "Nombre de usuario o correo electrónico, por ej. Juan o juan@email.com",
         "JOIN": "REGISTRATE Y ÚNETE",
         "SPANISH": "ESPAÑOL",
         "English": "English",
@@ -201,6 +201,7 @@
         "SELLER":"VENDEDOR",
         "Search":"Buscar",
         "Subjects_Topics":"Subjectos / Temas",
+        "change_image":"change image",
         "aaaaaaaaaa":"aaaaaaaaaa",
         "aaaaaaaaaa":"aaaaaaaaaa",
         "aaaaaaaaaa":"aaaaaaaaaa",

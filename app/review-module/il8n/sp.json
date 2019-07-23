@@ -37,6 +37,8 @@
         "ACTIONS":"ACTIONS",
         "Disable":"INHABILITAR",
         "Enable":"HABILITAR",
+        "STOP_TESTING":"Uppercase botn",
+        "START_TESTING":"INICIAR PRUEBAS",
         "DELETE":"BORRAR",
         "Revised":"Revised :",
         "Correctly":"Correctly :",
